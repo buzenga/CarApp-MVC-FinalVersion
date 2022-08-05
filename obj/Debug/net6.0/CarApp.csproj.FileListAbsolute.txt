@@ -1,0 +1,168 @@
+C:\projects\CarApp\bin\Debug\net6.0\appsettings.Development.json
+C:\projects\CarApp\bin\Debug\net6.0\appsettings.json
+C:\projects\CarApp\bin\Debug\net6.0\CarApp.staticwebassets.runtime.json
+C:\projects\CarApp\bin\Debug\net6.0\CarApp.exe
+C:\projects\CarApp\bin\Debug\net6.0\CarApp.dll.config
+C:\projects\CarApp\bin\Debug\net6.0\CarApp.deps.json
+C:\projects\CarApp\bin\Debug\net6.0\CarApp.runtimeconfig.json
+C:\projects\CarApp\bin\Debug\net6.0\CarApp.dll
+C:\projects\CarApp\bin\Debug\net6.0\CarApp.pdb
+C:\projects\CarApp\bin\Debug\net6.0\Antlr3.Runtime.dll
+C:\projects\CarApp\bin\Debug\net6.0\Iesi.Collections.dll
+C:\projects\CarApp\bin\Debug\net6.0\NHibernate.dll
+C:\projects\CarApp\bin\Debug\net6.0\Remotion.Linq.dll
+C:\projects\CarApp\bin\Debug\net6.0\Remotion.Linq.EagerFetching.dll
+C:\projects\CarApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\projects\CarApp\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\projects\CarApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\projects\CarApp\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\projects\CarApp\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\projects\CarApp\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\projects\CarApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\projects\CarApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\projects\CarApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\projects\CarApp\obj\Debug\net6.0\CarApp.csproj.AssemblyReference.cache
+C:\projects\CarApp\obj\Debug\net6.0\CarApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CarApp\obj\Debug\net6.0\CarApp.AssemblyInfoInputs.cache
+C:\projects\CarApp\obj\Debug\net6.0\CarApp.AssemblyInfo.cs
+C:\projects\CarApp\obj\Debug\net6.0\CarApp.csproj.CoreCompileInputs.cache
+C:\projects\CarApp\obj\Debug\net6.0\CarApp.MvcApplicationPartsAssemblyInfo.cache
+C:\projects\CarApp\obj\Debug\net6.0\CarApp.RazorAssemblyInfo.cache
+C:\projects\CarApp\obj\Debug\net6.0\CarApp.RazorAssemblyInfo.cs
+C:\projects\CarApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\projects\CarApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\projects\CarApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\projects\CarApp\obj\Debug\net6.0\scopedcss\bundle\CarApp.styles.css
+C:\projects\CarApp\obj\Debug\net6.0\scopedcss\projectbundle\CarApp.bundle.scp.css
+C:\projects\CarApp\obj\Debug\net6.0\CarApp.csproj.CopyComplete
+C:\projects\CarApp\obj\Debug\net6.0\CarApp.dll
+C:\projects\CarApp\obj\Debug\net6.0\refint\CarApp.dll
+C:\projects\CarApp\obj\Debug\net6.0\CarApp.pdb
+C:\projects\CarApp\obj\Debug\net6.0\CarApp.genruntimeconfig.cache
+C:\projects\CarApp\obj\Debug\net6.0\ref\CarApp.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\obj\Debug\net6.0\CarApp.csproj.AssemblyReference.cache
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\obj\Debug\net6.0\CarApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\obj\Debug\net6.0\CarApp.AssemblyInfoInputs.cache
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\obj\Debug\net6.0\CarApp.AssemblyInfo.cs
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\obj\Debug\net6.0\CarApp.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\obj\Debug\net6.0\CarApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\obj\Debug\net6.0\CarApp.RazorAssemblyInfo.cache
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\obj\Debug\net6.0\CarApp.RazorAssemblyInfo.cs
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\obj\Debug\net6.0\CarApp.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\obj\Debug\net6.0\refint\CarApp.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\obj\Debug\net6.0\CarApp.pdb
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\bin\Debug\net6.0\appsettings.json
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\bin\Debug\net6.0\CarApp.staticwebassets.runtime.json
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\bin\Debug\net6.0\CarApp.exe
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\bin\Debug\net6.0\CarApp.dll.config
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\bin\Debug\net6.0\CarApp.deps.json
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\bin\Debug\net6.0\CarApp.runtimeconfig.json
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\bin\Debug\net6.0\CarApp.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\bin\Debug\net6.0\CarApp.pdb
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\bin\Debug\net6.0\Antlr3.Runtime.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\bin\Debug\net6.0\Iesi.Collections.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\bin\Debug\net6.0\NHibernate.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\bin\Debug\net6.0\Remotion.Linq.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\bin\Debug\net6.0\Remotion.Linq.EagerFetching.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\obj\Debug\net6.0\scopedcss\bundle\CarApp.styles.css
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\obj\Debug\net6.0\scopedcss\projectbundle\CarApp.bundle.scp.css
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\obj\Debug\net6.0\CarApp.csproj.CopyComplete
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\obj\Debug\net6.0\CarApp.genruntimeconfig.cache
+C:\Users\Kuba\Desktop\testy\TESTCARAPP\obj\Debug\net6.0\ref\CarApp.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\bin\Debug\net6.0\appsettings.json
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\bin\Debug\net6.0\CarApp.staticwebassets.runtime.json
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\bin\Debug\net6.0\CarApp.exe
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\bin\Debug\net6.0\CarApp.dll.config
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\bin\Debug\net6.0\CarApp.deps.json
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\bin\Debug\net6.0\CarApp.runtimeconfig.json
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\bin\Debug\net6.0\CarApp.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\bin\Debug\net6.0\CarApp.pdb
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\bin\Debug\net6.0\Antlr3.Runtime.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\bin\Debug\net6.0\Iesi.Collections.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\bin\Debug\net6.0\NHibernate.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\bin\Debug\net6.0\Remotion.Linq.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\bin\Debug\net6.0\Remotion.Linq.EagerFetching.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\obj\Debug\net6.0\CarApp.csproj.AssemblyReference.cache
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\obj\Debug\net6.0\CarApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\obj\Debug\net6.0\CarApp.AssemblyInfoInputs.cache
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\obj\Debug\net6.0\CarApp.AssemblyInfo.cs
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\obj\Debug\net6.0\CarApp.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\obj\Debug\net6.0\CarApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\obj\Debug\net6.0\CarApp.RazorAssemblyInfo.cache
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\obj\Debug\net6.0\CarApp.RazorAssemblyInfo.cs
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\obj\Debug\net6.0\scopedcss\bundle\CarApp.styles.css
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\obj\Debug\net6.0\scopedcss\projectbundle\CarApp.bundle.scp.css
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\obj\Debug\net6.0\CarApp.csproj.CopyComplete
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\obj\Debug\net6.0\CarApp.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\obj\Debug\net6.0\refint\CarApp.dll
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\obj\Debug\net6.0\CarApp.pdb
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\obj\Debug\net6.0\CarApp.genruntimeconfig.cache
+C:\Users\Kuba\Desktop\testy\TESTCARAPP — kopia\obj\Debug\net6.0\ref\CarApp.dll
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\bin\Debug\net6.0\appsettings.json
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\bin\Debug\net6.0\CarApp.staticwebassets.runtime.json
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\bin\Debug\net6.0\CarApp.exe
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\bin\Debug\net6.0\CarApp.dll.config
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\bin\Debug\net6.0\CarApp.deps.json
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\bin\Debug\net6.0\CarApp.runtimeconfig.json
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\bin\Debug\net6.0\CarApp.dll
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\bin\Debug\net6.0\CarApp.pdb
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\bin\Debug\net6.0\Antlr3.Runtime.dll
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\bin\Debug\net6.0\Iesi.Collections.dll
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\bin\Debug\net6.0\NHibernate.dll
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\bin\Debug\net6.0\Remotion.Linq.dll
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\bin\Debug\net6.0\Remotion.Linq.EagerFetching.dll
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\obj\Debug\net6.0\CarApp.csproj.AssemblyReference.cache
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\obj\Debug\net6.0\CarApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\obj\Debug\net6.0\CarApp.AssemblyInfoInputs.cache
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\obj\Debug\net6.0\CarApp.AssemblyInfo.cs
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\obj\Debug\net6.0\CarApp.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\obj\Debug\net6.0\CarApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\obj\Debug\net6.0\CarApp.RazorAssemblyInfo.cache
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\obj\Debug\net6.0\CarApp.RazorAssemblyInfo.cs
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\obj\Debug\net6.0\scopedcss\bundle\CarApp.styles.css
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\obj\Debug\net6.0\scopedcss\projectbundle\CarApp.bundle.scp.css
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\obj\Debug\net6.0\CarApp.csproj.CopyComplete
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\obj\Debug\net6.0\CarApp.dll
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\obj\Debug\net6.0\refint\CarApp.dll
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\obj\Debug\net6.0\CarApp.pdb
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\obj\Debug\net6.0\CarApp.genruntimeconfig.cache
+C:\Users\Kuba\Desktop\CarApp4.8.2022\CarAppMVC-Different-NHibernate-sessions-main\obj\Debug\net6.0\ref\CarApp.dll
