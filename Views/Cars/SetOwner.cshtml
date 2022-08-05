@@ -1,0 +1,25 @@
+﻿@using CarApp.ViewModels
+@model SetOwnerViewModel
+
+
+<h1>Car plate number: @Model.Car.PlateNumber</h1>
+<h2>@Model.Car.Producer @Model.Car.Model</h2>
+<br />
+
+<form method="post" asp-action="SetOwner">
+     <input type="hidden" value="ID" id="ID" />
+     <div class="form-group">
+        <label asp-for="Owner.ID">Choose Owner</label>
+        <select asp-for="Owner.ID"  class="form-control form-control-lg">
+            <option>---Select---</option>
+                @foreach(var owner in @Model.AllOwners )
+                {
+                    <option value="@owner.ID">@owner.FirstName @owner.LastName</option>
+                }
+        </select>
+        <span asp-validation-for="Owner.ID" class="text-danger"></span>
+      </div>
+      <br />
+      <button type="submit" class="btn btn-primary">Set owner</button>
+      <a asp-action="Index">Back to list</a>
+</form>

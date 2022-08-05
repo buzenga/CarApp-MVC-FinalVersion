@@ -1,0 +1,40 @@
+﻿@model List<Owner>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">ID</th>
+      <th scope="col">Name</th>
+      <th scope="col">Last Name</th>
+      <th scope="col">Number of cars</th>
+      <th scope="col"></th>
+    </tr>
+  </thead>
+  <tbody>
+        @foreach(var owner in Model)
+        {
+            <tr>
+              <th scope="row">@owner.ID</th>
+              <td>@owner.FirstName</td>
+              <td>@owner.LastName</td>
+                @if (@owner.Cars.Any())
+                {
+                    <td>@owner.Cars.Count</td>
+                }
+                else
+                {
+                    <td style="color: red;">NO CARS</td>
+                }
+                
+              <td>
+                   <a typeof="btn btn-success" asp-controller="Owners" asp-action="Detail" asp-route-id="@owner.ID" class="btn btn-sm btn-outline-secondary">Details</a>
+                   <a typeof="btn btn-success" asp-controller="Owners" asp-action="Delete" asp-route-id="@owner.ID" class="btn btn-sm btn-outline-danger">Delete</a>
+                   <a typeof="btn btn-success" asp-controller="Owners" asp-action="Edit" asp-route-id="@owner.ID" class="btn btn-sm btn-outline-secondary">Edit</a>
+              </td>
+             
+            </tr>
+        }
+        
+    
+  </tbody>
+</table>

@@ -1,0 +1,39 @@
+﻿@model Owner
+
+
+<h1>Owner Id: @Model.ID</h1>
+<h2>@Model.FirstName @Model.LastName</h2>
+<h2>Number of cars: @Model.Cars.Count</h2>
+<br />
+
+@if(Model.Cars.Count > 0)
+{
+    <table class="table">
+          <thead>
+            <tr>
+              <th scope="col">Platenumber</th>
+              <th scope="col">Brand</th>
+              <th scope="col">Model</th>
+              <th scope="col"></th>
+            </tr>
+          </thead>
+          <tbody>
+                @foreach(var car in Model.Cars){
+                    <tr>
+                        <th scope="row">@car.PlateNumber</th>
+                        <td>@car.Producer</td>
+                        <td>@car.Model</td>
+                        <td>
+                            <form method="post" asp-controller="Cars" asp-action="DisconnectOwner" asp-route-id="@car.ID">
+                                <input type="hidden" value="@car.ID" id="ID" />
+                                <button type="submit" class="btn btn-warning">Cancel Car</button>
+                            </form> 
+                        </td>
+                    </tr>
+                }
+          </tbody>
+</table>
+}
+
+
+<a asp-action="Index">Back to list</a>

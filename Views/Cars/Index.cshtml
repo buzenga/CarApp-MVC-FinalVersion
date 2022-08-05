@@ -1,0 +1,52 @@
+﻿@model List<Car>
+
+    <table class="table">
+  <thead>
+    <tr>
+      <th scope="col">ID</th>
+      <th scope="col">Plate Number</th>
+      <th scope="col">Brand</th>
+      <th scope="col">Model</th>
+      <th scope="col">Owner</th>
+      <th scope="col">Actions</th>
+      
+    </tr>
+  </thead>
+  <tbody>
+        @foreach(var car in Model)
+        {
+            <tr>
+              
+              <td >@car.ID</td>
+              <td>@car.PlateNumber</td>
+              <td>@car.Producer</td>
+              <td>@car.Model</td>
+              
+              @if (@car.Owner != null)
+                {
+                    <td>@car.Owner.FirstName @car.Owner.LastName</td>
+                }
+                else
+                {
+                    <td style="color: red;">CURRENTLY NO OWNER</td>
+                }
+                <td>
+                    <a typeof="btn btn-success" asp-controller="Cars" asp-action="Detail" asp-route-id="@car.ID" class="btn btn-sm btn-primary">Details</a>
+                   <a typeof="btn btn-success" asp-controller="Cars" asp-action="Delete" asp-route-id="@car.ID" class="btn btn-sm btn-danger">Delete</a>
+                   <a typeof="btn btn-success" asp-controller="Cars" asp-action="Edit" asp-route-id="@car.ID" class="btn btn-sm btn-info">Edit</a>
+                   <a typeof="btn btn-success" asp-controller="Cars" asp-action="SetOwner" asp-route-id="@car.ID" class="btn btn-sm btn-success">Set owner</a>
+                   
+                   
+                   <form method="post" asp-controller="Cars" asp-action="DisconnectOwner" asp-route-id="@car.ID">
+                        <input type="hidden" value="@car.ID" id="ID" />
+                        <button type="submit" class="btn btn-warning">Cancel Owner</button>
+                    </form> 
+               
+                
+                </td>
+            </tr>
+        }
+        
+    
+  </tbody>
+</table>

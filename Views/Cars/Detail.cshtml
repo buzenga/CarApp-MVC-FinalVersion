@@ -1,0 +1,58 @@
+﻿@model Car
+
+
+<h1>Plate number: @Model.PlateNumber</h1>
+<h2>@Model.Producer @Model.Model</h2>
+<br />
+
+@if (Model.Owner != null)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">First Name</th>
+                <th scope="col">Last Name</th>
+                <th scope="col">Cars number</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            <tr>
+                <th scope="row">@Model.Owner.FirstName</th>
+                <td>@Model.Owner.LastName</td>
+                <td>@Model.Owner.Cars.Count</td>
+            </tr>
+
+        </tbody>
+    </table>
+}
+<br />
+<a asp-action="Index">Back to list</a>
+
+
+
+
+
+
+
+
+@*<table class="table">
+          <thead>
+            <tr>
+              <th scope="col">First Name</th>
+              <th scope="col">Last Name</th>
+              <th scope="col">Cars number</th>
+            </tr>
+          </thead>
+          <tbody>
+        @if (Model.Owner != null)
+                {
+                    <tr>
+                        <th scope="row">@Model.Owner.FirstName</th>
+                        <td>@Model.Owner.LastName</td>
+                        <td>@Model.Owner.Cars.Count</td>
+                    </tr>
+                }
+    </tbody>
+</table>
+<a asp-action="Index">Back to list</a>*@
